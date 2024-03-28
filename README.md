@@ -1,6 +1,6 @@
 
 # StudyNotion - EdTech Platform
-:rocket: [Link to website][https://studynotion-frontend.vercel.app/]
+
 
 
 ![image](https://github.com/saifriaz001/StudyNotion/assets/89684150/7bc8f72d-8b82-4436-85c8-b5ec4e12d643)
